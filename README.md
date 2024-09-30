@@ -1,5 +1,5 @@
 # Landmarks
- Simple demo to display some landmarks of a natural park using SwiftUI
+ Simple demo to display some landmarks of natural parks from a JSON file using SwiftUI.
 
 ## Iphone
 
