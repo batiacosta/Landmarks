@@ -3,8 +3,10 @@
 
 ## Iphone
 
-<img width="301" alt="Screenshot 2024-09-30 at 3 37 16 PM" src="https://github.com/user-attachments/assets/8d949540-0b4d-4b35-8d91-b6f019d289ed">
-<img width="301" alt="Screenshot 2024-09-30 at 3 37 10 PM" src="https://github.com/user-attachments/assets/5379c4b1-04d3-42ff-9ee9-ef5c6c7517c5">
+<img width="298" alt="Screenshot 2024-09-30 at 5 59 52 PM" src="https://github.com/user-attachments/assets/ecda5fb8-e692-41fa-a306-613e5d8fd134">
+<img width="298" alt="Screenshot 2024-09-30 at 5 59 45 PM" src="https://github.com/user-attachments/assets/704c4038-75ad-49c0-9a57-ddef3116cb41">
+<img width="298" alt="Screenshot 2024-09-30 at 6 00 32 PM" src="https://github.com/user-attachments/assets/f8461434-1f35-44cf-a1e0-f686113878ab">
+
 
 ## iPad
 
